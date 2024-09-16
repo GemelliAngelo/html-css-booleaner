@@ -37,7 +37,6 @@ h2 {
 
 .main-paragraph {
     margin-left: 8px;
-    background-color: #f9fd73;
 }
 
 .ul {
@@ -72,7 +71,7 @@ td {
     background-color: #b1e5f1;
 }
 
-.secondary-paragraph {
+.highlight {
     background-color: #f9fd73;
 }
 
