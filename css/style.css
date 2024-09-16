@@ -43,6 +43,28 @@ img {
     margin-left: 8px;
 }
 
+/* table */
+table {
+    border-spacing: 0px;
+    width: 100%;
+}
+
+th {
+    background-color: #22a9e3;
+    height: 10px;
+    width: 300px;
+    text-align: left;
+}
+
+td {
+    height: 40px;
+}
+
+.colored-tr {
+    background-color: #b1e5f1;
+}
+
+/* footer */
 .page-footer {
     margin-left: 8px;
 }
@@ -67,5 +89,3 @@ img {
     background-size: contain;
     color: #ffffff;
 }
-
-.third-row
