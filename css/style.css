@@ -62,6 +62,7 @@ table {
 }
 
 th {
+    text-align: left;
     background-color: #22a9e3;
 }
 
