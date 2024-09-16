@@ -1,0 +1,16 @@
+/* reset */
+img {
+    max-width: 100%;
+}
+
+/* pattern background */
+.my-bg {
+    background-image: url('../img/pattern.png');
+    background-color: #4ea0fc;
+    height: 100px;
+}
+
+/* page-logo */
+.logo {
+    
+}
