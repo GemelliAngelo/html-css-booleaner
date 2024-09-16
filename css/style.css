@@ -3,14 +3,21 @@ img {
     max-width: 100%;
 }
 
+.page-body {
+    margin: 0%;
+}
+
 /* pattern background */
 .my-bg {
     background-image: url('../img/pattern.png');
     background-color: #4ea0fc;
-    height: 100px;
+    background-size: 20%;
+    height: 70px;
 }
 
 /* page-logo */
 .logo {
-    
+    height: 40px;
+    margin-top: 25px;
+    margin-left: 8px; 
 }
