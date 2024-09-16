@@ -13,38 +13,46 @@ img {
     background-color: #4ea0fc;
     background-size: 20%;
     height: 70px;
-}
-
-h2 {
-    color: #969696;
-}
-
-.author {
-    text-decoration: none;
+    margin: 0px;
 }
 
 /* page-logo */
 .logo {
     height: 40px;
     margin-top: 25px;
-    margin-left: 8px; 
+    margin-left: 16px; 
+}
+
+.main-header {
+    margin-left: -8px;
+}
+
+/* title */
+.page-title {
+    margin-left: 16px;
+}
+
+h2 {
+    color: #969696;
+    margin-left: 16px;
+}
+
+.author {
+    text-decoration: none;
+}
+
+/* main-body */
+.main-body {
+    margin-left: 8px;
 }
 
 /* tim-img */
 .tim-img {
-    margin-left: 8px;
-}
-
-.main-paragraph {
-    margin-left: 8px;
+    margin-left: 0px;
 }
 
 .ul {
-    margin-left: -16px;
-}
-
-.second-half {
-    margin-left: 8px;
+    margin-left: -24px;
 }
 
 /* table */
