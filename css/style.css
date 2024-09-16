@@ -15,6 +15,10 @@ img {
     height: 70px;
 }
 
+h2 {
+    color: #969696;
+}
+
 .author {
     text-decoration: none;
 }
@@ -33,6 +37,7 @@ img {
 
 .main-paragraph {
     margin-left: 8px;
+    background-color: #f9fd73;
 }
 
 .ul {
@@ -51,8 +56,11 @@ table {
 
 th {
     background-color: #22a9e3;
+}
+
+.th {
     height: 10px;
-    width: 300px;
+    width: 200px;
     text-align: left;
 }
 
@@ -62,6 +70,10 @@ td {
 
 .colored-tr {
     background-color: #b1e5f1;
+}
+
+.secondary-paragraph {
+    background-color: #f9fd73;
 }
 
 /* footer */
